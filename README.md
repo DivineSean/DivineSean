@@ -3,7 +3,7 @@
 
 👀 I’m interested in dev/it
 
-🌱 I’m currently learning c
+🌱 I’m currently learning c++
   
 📫 How to reach me : 💬 Siimoar00@gmail.com
   
