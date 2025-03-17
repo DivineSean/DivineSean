@@ -9,7 +9,7 @@ I'm a passionate **Software Engineer** with a strong background in **full-stack 
 ## Technical Skills
 
 ### Programming:
-- C/C++, Python, JavaScript, TYPEScript
+- C/C++, Python, JavaScript, TypeScript
 
 ### Web Development:
 - React.js, Django, REST APIs, Three.js, HTML, CSS, Tailwind CSS
