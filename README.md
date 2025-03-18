@@ -49,6 +49,6 @@ More projects available on my repositories! 🚀
 - 📧 **Email:** [Siimoar00@gmail.com](mailto:Siimoar00@gmail.com)
 - 💼 **LinkedIn:** [markik42](https://linkedin.com/in/markik42)
 - 🏗 **GitHub:** [DivineSean](https://github.com/DivineSean)
+- 🌐 **Portfolio:** [mohamedarkik.netlify.app](https://mohamedarkik.netlify.app)
 
 Let's connect and collaborate!
-
