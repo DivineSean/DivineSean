@@ -1,10 +1,10 @@
-# Mohamed Arkik
+# Ｍｏｈａｍｅｄ Ａｒｋｉｋ
 
-I’m a software engineer so passionate that my coffee fears me.  
-In a world full of bugs and bad Wi-Fi, I conquer **full-stack development**, **networking**, and **3D graphics programming** — often before my third cup of coffee.  
+Ｉ’ｍ ａ ｓｏｆｔｗａｒｅ ｅｎｇｉｎｅｅｒ ｓｏ ｐａｓｓｉｏｎａｔｅ ｔｈａｔ ｍｙ ｃｏｆｆｅｅ ｆｅａｒｓ ｍｅ．  
+Ｉｎ ａ ｗｏｒｌｄ ｆｕｌｌ ｏｆ ｂｕｇｓ ａｎｄ ｂａｄ ｗ－Ｆｉ， Ｉ ｃｏｎｑｕｅｒ **ｆｕｌｌ－ｓｔａｃｋ ｄｅｖｅｌｏｐｍｅｎｔ**， **ｎｅｔｗｏｒｋｉｎｇ**， ａｎｄ **３Ｄ ｇｒａｐｈｉｃｓ ｐｒｏｇｒａｍｍｉｎｇ** — ｏｆｔｅｎ ｂｅｆｏｒｅ ｍｙ ｔｈｉｒｄ ｃｕｐ ｏｆ ｃｏｆｆｅｅ．  
 
-I write code, connect systems, and make things spin in 3D — occasionally on purpose.  
-If it has code, wires, or polygons, I’ve probably broken it, fixed it, and added a feature no one asked for.
+Ｉ ｗｒｉｔｅ ｃｏｄｅ， ｃｏｎｎｅｃｔ ｓｙｓｔｅｍｓ， ａｎｄ ｍａｋｅ ｔｈｉｎｇｓ ｓｐｉｎ ｉｎ ３Ｄ — ｏｃｃａｓｉｏｎａｌｌｙ ｏｎ ｐｕｒｐｏｓｅ．  
+Ｉｆ ｉｔ ｈａｓ ｃｏｄｅ， ｗｉｒｅｓ， ｏｒ ｐｏｌｙｇｏｎｓ， Ｉ’ｖｅ ｐｒｏｂａｂｌｙ ｂｒｏｋｅｎ ｉｔ， ｆｉｘｅｄ ｉｔ， ａｎｄ ａｄｄｅｄ ａ ｆｅａｔｕｒｅ ｎｏ ｏｎｅ ａｓｋｅｄ ｆｏｒ．
 
 ---
 
@@ -42,8 +42,9 @@ Blender, Unity, MiniLibX
 ---
 
 ## Education
-**Software Engineering** - Vilniaus kolegija *(2025 - Present)*
-**Computer Science** — 42 Network *(2022 – 2025)*
+
+**Software Engineering** - Vilniaus kolegija *(2025 - Present)*  
+**Computer Science** — 42 Network *(2022 – 2025)*  
 **Specialized Technician in Computer Networks** — ISTA Agadir *(2018 – 2020)*  
 
 ---
@@ -58,4 +59,4 @@ Blender, Unity, MiniLibX
 
 ---
 
-*“I don’t just fix bugs — I domesticate them.”*
+*"I don’t just fix bugs — I domesticate them."*
