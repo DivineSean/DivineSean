@@ -32,12 +32,6 @@ Blender, Unity, MiniLibX
 **Description:** An interactive multiplayer gaming platform with real-time chat, matchmaking, and player rankings.  
 
 **Tech Stack:** Django | React.js | Three.js | WebSockets  
-
-**Highlights:**  
-- Integrated 3D assets created in Blender.  
-- Full-stack implementation, from backend to frontend.  
-- Designed for real-time multiplayer interaction.  
-
 ---
 
 ## Education
