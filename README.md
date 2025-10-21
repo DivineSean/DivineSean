@@ -1,6 +1,6 @@
 # Mohamed Arkik
 
-I’m a software engineer so passionate that my coffee fears me.  
+I’m a software engineer student so passionate that my coffee fears me.  
 In a world full of bugs and bad Wi-Fi, I conquer **full-stack development**, **networking**, and **3D graphics programming** — often before my third cup of coffee.  
 
 I write code, connect systems, and make things spin in 3D — occasionally on purpose.  
