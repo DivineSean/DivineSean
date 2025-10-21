@@ -31,7 +31,8 @@ Blender, Unity, MiniLibX
 ### Ft_Transcendence
 **Description:** An interactive multiplayer gaming platform with real-time chat, matchmaking, and player rankings.  
 
-**Tech Stack:** Django | React.js | Three.js | WebSockets  
+**Tech Stack:** Django | React.js | Three.js | WebSockets 
+
 ---
 
 ## Education
