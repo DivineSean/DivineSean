@@ -1,7 +1,5 @@
 # Mohamed Arkik
 
- In a world full of bugs and bad Wi-Fi, I conquer many field for fun such as **full-stack development**, **networking**, **DesktopApp**, and **3D graphics programming** — often before my third cup of coffee. 
-
 I write code, connect systems, and make things spin in 3D — occasionally on purpose.  
 If it has code, wires, or polygons, I’ve probably broken it, fixed it, and added a feature no one asked for.
 
