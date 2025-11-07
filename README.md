@@ -37,7 +37,7 @@ Blender, Unity, MiniLibX
 
 **Software Engineering** - Vilniaus kolegija *(2025 - Present)*  
 **Computer Science** — 42 Network *(2022 – 2025)*  
-**Specialized Technician in Computer Networks** — ISTA Agadir *(2018 – 2020)*  
+**Computer Networks** — ISTA Agadir *(2018 – 2020)*  
 
 ---
 
