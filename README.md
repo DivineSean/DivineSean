@@ -24,26 +24,17 @@ Blender, Unity, MiniLibX
 
 ---
 
-## Featured Project
-
-### Ft_Transcendence
-**Description:** An interactive multiplayer gaming platform with real-time chat, matchmaking, and player rankings.  
-
-**Tech Stack:** Django | React.js | Three.js | WebSockets 
-
----
-
 ## Education
 
 **Software Engineering** - Vilniaus kolegija *(2025 - Present)*  
-**Computer Science** — 42 Network *(2022 – 2025)*  
+**Computer Science** — 42 Network *(2022 – Present)*  
 **Computer Networks** — ISTA Agadir *(2018 – 2020)*  
 
 ---
 
 ## Contact
 
-**Location:** Agadir, Morocco  
+**Location:** Vilnius, Vilniaus, Lithuania
 **Email:** [Siimoar00@gmail.com](mailto:Siimoar00@gmail.com)  
 **LinkedIn:** [markik42](https://linkedin.com/in/markik42)  
 **GitHub:** [DivineSean](https://github.com/DivineSean)  
