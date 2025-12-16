@@ -35,6 +35,7 @@ Blender, Unity, MiniLibX
 ## Contact
 
 **Location:** Vilnius, Vilniaus, Lithuania
+
 **Email:** [Siimoar00@gmail.com](mailto:Siimoar00@gmail.com)  
 **LinkedIn:** [markik42](https://linkedin.com/in/markik42)  
 **GitHub:** [DivineSean](https://github.com/DivineSean)  
